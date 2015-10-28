@@ -1,0 +1,7 @@
+/.idea/
+/src/grammar/bin
+/src/MySQL.tokens
+/src/MySQLLexer.c
+/src/MySQLLexer.h
+/src/MySQLParser.c
+/src/MySQLParser.h
