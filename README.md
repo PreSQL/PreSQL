@@ -1,4 +1,4 @@
-# PreSQL-Compiler
+# PreSQL
 ## Build
 ```
 $ mkdir build
