@@ -1,16 +1,16 @@
 #include <iostream>
-#include "PreSQL_Compiler.h"
+#include "PreSQL.h"
 
 using namespace std;
 
-void PreSQL_Compiler::HelloWorld() {
+void PreSQL::HelloWorld() {
 
     cout << "Hello World!\n";
 }
 
 int main () {
 
-    PreSQL_Compiler* compiler = new PreSQL_Compiler;
+    PreSQL* compiler = new PreSQL;
     compiler->HelloWorld();
 
     return 0;
